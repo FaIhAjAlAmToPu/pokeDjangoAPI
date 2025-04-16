@@ -13,7 +13,6 @@ db.sqlite3
 
 # Virtualenv:
 venv/
-.env/
 
 # OS files:
 .DS_Store
